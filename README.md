@@ -1,18 +1,24 @@
 ### Hello there! ✨
 
-I'm a software developer at [Tietoevry](www.tietoevry.com) and an alum from Haaga-Helia University Of Applied Sciences.
-
-In my work I'm especially passionate about declarative and reactive programming paradigms as well as best practices regarding UX and accessibility.
+I'm a software developer at [Tietoevry](www.tietoevry.com) and an alum from [Haaga-Helia University Of Applied Sciences](https://www.haaga-helia.fi/en).
 
 🧑🏼‍💻 I'm currently working on a customer project and getting to know Next.js 13
 
-Technologies I've been using and enjoying recently (most recent to least)
-- Next.js 13
-- Angular
-- RxJS
+#### I'm especially passionate about 🫶
+- My (so far) favourite programming paradigms
+  - reactive
+  - declarative
+- UX
+- Accessibility.
 
-Technologies I know about, besides the previous ones (no particular order)
+#### Technologies I've been using and enjoying recently 💯
+1. Next.js 13
+2. Angular
+3. RxJS
+
+#### Technologies I know about, besides the previous ones 💡
 - Java
+- Spring
 - Python
 
 <!--
