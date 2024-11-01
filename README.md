@@ -5,7 +5,7 @@
 
 I'm a software developer at [Tietoevry](www.tietoevry.com) and an alum from [Haaga-Helia University Of Applied Sciences](https://www.haaga-helia.fi/en). I love to help top-notch user experiences become a reality by the means of code and communication.
 
-🧑🏼‍💻 Currently working on a customer project and getting to know Next.js 13
+🧑🏼‍💻 Currently working on a React based project related to the EU 🇪🇺 
 
 #### What motivates me
 
