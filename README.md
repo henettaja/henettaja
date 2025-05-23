@@ -5,8 +5,6 @@
 
 I'm a software developer at [Tietoevry](www.tietoevry.com) and an alum from [Haaga-Helia University Of Applied Sciences](https://www.haaga-helia.fi/en). I love to help top-notch user experiences become a reality by the means of code and communication.
 
-🧑🏼‍💻 Currently working on a React based project related to the EU 🇪🇺 
-
 #### What motivates me
 
 Contributing to ambitious products and services with great UX that also keep digital accessibility in mind 🫶
