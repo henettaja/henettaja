@@ -3,7 +3,7 @@
 
 ### Welcome! ✨
 
-I'm a software developer at [Tieto](www.tieto.com) and an alum from [Haaga-Helia University Of Applied Sciences](https://www.haaga-helia.fi/en).
+I'm a software developer at [Tieto](https://www.tieto.com) and an alum from [Haaga-Helia University Of Applied Sciences](https://www.haaga-helia.fi/en).
 
 #### What motivates me
 
