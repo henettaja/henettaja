@@ -7,19 +7,17 @@
       <pre>
 ╭─ henettaja on → main
 ╰─❯ whoami
-henri
-
+henri<br>
 ╭─ henettaja on → main
 ╰─❯ cat about.txt
-╭──────────────────────────────────────────╮
-│ I write code I can stand behind,         │
-│ for causes I can stand behind.           │
-╰──────────────────────────────────────────╯
-🧑🏼‍💻 Full-stack software Developer @ Tieto.
+╭──────────────────────────────────╮
+│ I write code I can stand behind, │
+│ for causes I can stand behind.   │
+╰──────────────────────────────────╯
+🧑🏼‍💻 Full-stack software developer @ Tieto.
 ✨ Specialized in frontend.
 🏙️ Helsinki, Finland.
-⚙️ TypeScript-based stacks.
-
+⚙️ TypeScript-based stacks.<br>
 ╭─ henettaja on → main
 ╰─❯ lt enjoys-working-with
 ./enjoys-working-with
@@ -29,19 +27,18 @@ henri
 │   ├── declarative.ts
 │   ├── reactive.ts
 │   └── functional.ts
-└── projects-that-make-the-world-a-better-place.md
-
-╭─ henettaja on → main
-╰─❯ cat engineering-style.txt
-intentional decisions based on open discussion and friendly debate.
-
+└── projects-for-a-better-world.md<br>
 ╭─ henettaja on → main
 ╰─❯ lt cares-about
 ./cares-about
-├── code-that-can-survive-growth.txt
+├── code-that-scales.txt
 ├── accessibility-as-a-baseline.txt
-└── product-quality-equals-code-quality.txt
-
+└── quality-is-holistic.txt<br>
+╭─ henettaja on → main
+╰─❯ cat engineering-style.txt
+Calculated decisions,
+open discussion,
+friendly debate.<br>
 ╭─ henettaja on → main
 ╰─❯ cat links.txt
 website   https://henri.codes
